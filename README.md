@@ -1,4 +1,4 @@
 ko-components
 =============
 
-A collection of KnockoutJs components, (requires twitter bootstrap 
+A collection of KnockoutJs components (requires knockoutjs 3.2+)
